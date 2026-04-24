@@ -8,6 +8,12 @@ or Claude Desktop — drive FreeCAD for parametric mechanical design, 3D
 printing, and general CAD work. You describe what you want in plain language;
 the assistant picks the right tools; parts appear in FreeCAD in real time.
 
+## Demo
+
+[![NiRuLink FreeCAD demo — AI-driven CAD with Claude](https://img.youtube.com/vi/FvuR39n4I9U/maxresdefault.jpg)](https://youtu.be/FvuR39n4I9U)
+
+Click the thumbnail to watch on YouTube.
+
 ## What's in this repo
 
 This repo contains both halves of the system:
